@@ -1,6 +1,6 @@
 ---
 layout: post-list
 title: Ensino
-excerpt: "A List of Posts"
+excerpt: "Ensino"
 comments: false
 ---
