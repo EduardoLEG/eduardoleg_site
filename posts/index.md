@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Ensino
-excerpt: "Ensino"
+title: Disciplinas
+excerpt: "Disciplinas"
 comments: false
 ---
