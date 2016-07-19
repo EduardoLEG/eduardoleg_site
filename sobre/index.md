@@ -10,13 +10,13 @@ comments: false
 
 ## Formação
 
-* ### M. Sc., Estatística###, Universidade Estadual de Campinas - UNICAMP (2012-2014).
+* ### M. Sc., Estatística ###, Universidade Estadual de Campinas - UNICAMP (2012-2014).
 
     > **Título:** Modelos da Teoria de Resposta ao Item assimétricos de grupos múltiplos para respostas politômicas nominais e ordinais sob um enfoque bayesiano
 
     > **Orientador:** Prof. Dr. Caio Lucidius Naberezny Azevedo.
 
-* ### B. Sc., Estatística###, Universidade Estadual de Campinas - UNICAMP (2010-2011).
+* ### B. Sc., Estatística ###, Universidade Estadual de Campinas - UNICAMP (2010-2011).
 
     > **Título:** Um estudo inferencial sobre o modelo de crédito parcial generalizado da Teoria de Resposta ao Item com aplicação aos dados do vestibular da Unicamp.
 
