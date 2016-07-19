@@ -12,15 +12,15 @@ comments: false
 
 * 2012-2014: **M. Sc., Estatística**, Universidade Estadual de Campinas - UNICAMP.
 
-        > **Título:** Modelos da Teoria de Resposta ao Item assimétricos de grupos múltiplos para respostas politômicas nominais e ordinais sob um enfoque bayesiano
+    > **Título:** Modelos da Teoria de Resposta ao Item assimétricos de grupos múltiplos para respostas politômicas nominais e ordinais sob um enfoque bayesiano
 
-        > **Orientador:** Prof. Dr. Caio Lucidius Naberezny Azevedo.
+    > **Orientador:** Prof. Dr. Caio Lucidius Naberezny Azevedo.
 
 * 2010-2011: **B. Sc., Estatística**, Universidade Estadual de Campinas - UNICAMP.
 
-        > **Título:** Um estudo inferencial sobre o modelo de crédito parcial generalizado da Teoria de Resposta ao Item com aplicação aos dados do vestibular da Unicamp.
+    > **Título:** Um estudo inferencial sobre o modelo de crédito parcial generalizado da Teoria de Resposta ao Item com aplicação aos dados do vestibular da Unicamp.
 
-        > **Orientador:** Prof. Dr. Caio Lucidius Naberezny Azevedo.
+    > **Orientador:** Prof. Dr. Caio Lucidius Naberezny Azevedo.
 
 ## Prêmios e títulos
 
