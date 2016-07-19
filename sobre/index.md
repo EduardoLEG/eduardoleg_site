@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
+feature: https://raw.githubusercontent.com/EduardoLEG/eduardoleg.github.io/master/assets/img/algorithm.png
 tags: [Curriculum Vitae]
 date: 2016-03-21
 comments: false
