@@ -6,7 +6,7 @@ description: "Nossos talentos"
 comments: false
 ---
 
-<center>#Nossos talentos</center>
+<center>Nossos talentos</center>
 
 ## Iniciação Científica:
 
