@@ -35,7 +35,7 @@ comments: false
 |:---:|:---:|:---:|:---:|:---:|
 | Final  | 05/01 | -- | Todo conteúdo do curso  |Nota 5 |
 |:---:|:---:|:---:|:---:|:---:|
-
+{: rules="groups"}
 
 ## Exercícios
 
