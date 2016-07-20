@@ -5,27 +5,25 @@ feature: https://raw.githubusercontent.com/EduardoLEG/eduardoleg.github.io/maste
 description: "Nossos talentos"
 comments: false
 ---
-<center> <h1>heading 1</h1> </center>
+<center> <h1>Nossos talentos</h1> </center>
 
-#Nossos talentos
+## Iniciação Científica:
 
-##Iniciação Científica:
-
-* ###Altamiro Antonio Basiewics (2016 - Atual)
+* ### Altamiro Antonio Basiewics (2016 - Atual)
 
     > **Título:** Métodos de otimização com aplicações na Estatística.
 
-* ###Bruno Geronymo (2016 - Atual)
+* ### Bruno Geronymo (2016 - Atual)
 
     > **Título:** Cálculo avançado aplicado à Estatística.
     
-##Monitoria:
+## Monitoria:
 
-* ###Mariana Marinho Soares
+* ### Mariana Marinho Soares
 
     > Monitoria da disciplina Probabilidade A (1/2016).
     
-* ###Romulo de Oliveira Leite 
+* ### Romulo de Oliveira Leite 
 
     > Monitoria da disciplina Probabilidade A (1/2016).
 
