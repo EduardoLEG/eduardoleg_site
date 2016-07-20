@@ -2,7 +2,7 @@
 layout: post
 title:  "Inferência Estatística"
 date:   2016-04-06
-excerpt: 
+excerpt: "" 
 project: true
 tag:
 
