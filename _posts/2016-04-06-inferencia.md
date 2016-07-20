@@ -24,7 +24,7 @@ comments: false
 ## Avaliações 
 
 | Atividade | Data | Pontuação | Conteúdo | Nota |
-|=====
+|===|===|===|===|===|
 | 1a prova  | 15/10  | 25 pontos |Tópicos 1,2 e 3 | |
 |---|---|---|---|---|
 | 2a prova  | 19/11  | 30 pontos |Tópico 4  | |
@@ -36,6 +36,12 @@ comments: false
 | Final  | 05/01 | -- | Todo conteúdo do curso  | |
 |---|---|---|---|---|
 {: rules="groups"}
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## Exercícios
 
