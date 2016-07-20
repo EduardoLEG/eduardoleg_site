@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Projetos
-feature: https://raw.githubusercontent.com/EduardoLEG/eduardoleg.github.io/master/assets/img/quadro.png
-excerpt: "A List of Projects"
+feature: http://i.imgur.com/Ds6S7lJ.png
+excerpt: "Projetos"
 comments: false
 ---
