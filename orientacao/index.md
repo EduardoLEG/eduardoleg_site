@@ -19,11 +19,11 @@ comments: false
     
 ## Monitoria:
 
-* ### Mariana Marinho Soares
+* ### Mariana Marinho Soares (1/2016)
 
-    > Monitoria da disciplina Probabilidade A (1/2016).
+    > Monitoria da disciplina Probabilidade A.
     
-* ### Romulo de Oliveira Leite 
+* ### Romulo de Oliveira Leite (1/2016)
 
-    > Monitoria da disciplina Probabilidade A (1/2016).
+    > Monitoria da disciplina Probabilidade A.
 
