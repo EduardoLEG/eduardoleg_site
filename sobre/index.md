@@ -10,13 +10,13 @@ comments: false
 
 ## Formação
 
-* ### Mestrado em Estatística, UNICAMP (2012 - 2014).
+* ### Mestrado em Estatística, UNICAMP (2012 - 2014)
 
-    > **Título:** Modelos da Teoria de Resposta ao Item assimétricos de grupos múltiplos para respostas politômicas nominais e ordinais sob um enfoque bayesiano
+    > **Título:** Modelos da Teoria de Resposta ao Item assimétricos de grupos múltiplos para respostas politômicas nominais e ordinais sob um enfoque bayesiano.
 
     > **Orientador:** Prof. Dr. Caio Lucidius Naberezny Azevedo.
 
-* ### Bacharelado em Estatística, UNICAMP (2010 - 2011).
+* ### Bacharelado em Estatística, UNICAMP (2010 - 2011)
 
     > **Título:** Um estudo inferencial sobre o modelo de crédito parcial generalizado da Teoria de Resposta ao Item com aplicação aos dados do vestibular da Unicamp.
 
