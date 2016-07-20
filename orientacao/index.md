@@ -6,19 +6,19 @@ description: "Nossos talentos"
 comments: false
 ---
 
-# Nossos talentos
+-> # Nossos talentos <-
 
-## Iniciação Científica
+## Iniciação Científica:
 
 * ### Altamiro Antonio Basiewics (2016 - Atual)
 
-    > Título: Métodos de otimização com aplicações na Estatística.
+    > **Título:** Métodos de otimização com aplicações na Estatística.
 
 * ### Bruno Geronymo (2016 - Atual)
 
     > **Título:** Cálculo avançado aplicado à Estatística.
     
-## Monitoria
+## Monitoria:
 
 * ### Mariana Marinho Soares
 
