@@ -32,4 +32,8 @@ comments: false
 
 * **2011:** 2º colocado da turma de formandos em Estatística - 2011, UNICAMP. 
 
-[Currículo Lattes](http://lattes.cnpq.br/6295059687055801){: .btn}
+<center> 
+     <figure>
+	    <a href="https://eduardoleg.github.io/disciplinas/"><img src="https://raw.githubusercontent.com/EduardoLEG/eduardoleg.github.io/master/assets/img/curriculo_lattes.png"></a>
+     </figure>
+</center>
