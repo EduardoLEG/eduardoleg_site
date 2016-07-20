@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Disciplinas
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: https://raw.githubusercontent.com/EduardoLEG/eduardoleg.github.io/master/assets/img/disciplina3.png
 excerpt: "Disciplinas"
 comments: false
 ---
