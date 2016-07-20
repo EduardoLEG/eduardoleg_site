@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ensino
-<!-- feature: https://raw.githubusercontent.com/EduardoLEG/eduardoleg.github.io/master/assets/img/quadro.png -->
+feature: http://i.imgur.com/Ds6S7lJ.png
 excerpt: "Disciplinas"
 comments: false
 ---
