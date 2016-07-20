@@ -34,6 +34,6 @@ comments: false
 
 <center> 
      <figure>
-	    <a href="https://eduardoleg.github.io/disciplinas/"><img src="https://raw.githubusercontent.com/EduardoLEG/eduardoleg.github.io/master/assets/img/curriculo_lattes1.png"></a>
+	    <a href="http://lattes.cnpq.br/6295059687055801"><img src="https://raw.githubusercontent.com/EduardoLEG/eduardoleg.github.io/master/assets/img/curriculo_lattes.png"></a>
      </figure>
 </center>
