@@ -35,6 +35,7 @@ comments: false
 |----
 | Final  | 05/01 | -- | Todo conteúdo do curso  | |
 |----
+{: rules="groups"}
 
 ## Exercícios
 
