@@ -15,27 +15,15 @@ comments: false
   * **Curso:** Estatística.
   * **Período:** 2016/2.
   * **Horários e Locais:**
-     * Segunda-feira 20:40 - 22:00, PC-17.
-     * Terça-feira 19:00 - 20:30, PC-17.
-     * Quinta-feira 19:00 - 20:30, PC-03.
+     * Segunda-feira 19:00 - 20:30, PA-01.
+     * Quarta-feira 19:00 - 20:30, PC-05.
+     * Sexta-feira 20:40 - 22:00, PA-01.
   * **Atendimento:** Sexta, 17h30-18h30.
 
 
 ## Avaliações 
 
-| Atividade | Data | Pontuação | Conteúdo | Nota |
-|:===:|:===:|:===:|:===:|:===:|
-| 1a prova  | 15/10  | 25 pontos |Tópicos 1,2 e 3 |Nota 1 |
-|:---:|:---:|:---:|:---:|:---:|
-| 2a prova  | 19/11  | 30 pontos |Tópico 4  |Nota 2 |
-|:---:|:---:|:---:|:---:|:---:|
-| 3a prova  | 17/12 | 30 pontos |Tópico 5  |Nota 3 | 
-|:---:|:---:|:---:|:---:|:---:|
-| Participação | - | 15 pontos |-  |Nota 4 |
-|:---:|:---:|:---:|:---:|:---:|
-| Final  | 05/01 | -- | Todo conteúdo do curso  |Nota 5 |
-|:---:|:---:|:---:|:---:|:---:|
-{: rules="groups"}
+
 
 ## Exercícios
 
