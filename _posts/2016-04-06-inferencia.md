@@ -27,7 +27,7 @@ comments: false
 
 ## Exercícios
 
-* [Lista 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista1.pdf) (O primeiro aluno que enviar o gabarito da lista estará dispensado da Sabatina 1).
+* [Lista 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista1.pdf) (O primeiro aluno que enviar o gabarito da lista estará dispensado das Sabatinas 1 e 2).
 
 
 
