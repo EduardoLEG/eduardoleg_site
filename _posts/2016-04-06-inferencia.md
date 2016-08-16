@@ -23,6 +23,7 @@ comments: false
 
 ## Avaliações 
 
+* [Sabatina 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina1.pdf).
 
 
 ## Exercícios
