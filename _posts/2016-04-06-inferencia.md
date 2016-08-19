@@ -23,14 +23,14 @@ comments: false
 
 ## Avaliações 
 
-* [Sabatina 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina1.pdf).
+* [Sabatina 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina1.pdf)
 
 
 ## Exercícios
 
-* [Lista 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista1.pdf). [Gabarito 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista1_gabarito.pdf) não oficial. Desenvolvido pelos alunos. 
+* [Lista 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista1.pdf) [Gabarito 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista1_gabarito.pdf) não oficial. Desenvolvido pelos alunos. 
 
-
+* [Lista 2](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista2.pdf) O primeiro aluno a enviar o gabarito da lista 2 ficará livre da Sabatina 2!
 
 ## Programa da disciplina
 
