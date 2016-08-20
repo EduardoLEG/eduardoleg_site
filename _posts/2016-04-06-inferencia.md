@@ -32,7 +32,9 @@ comments: false
 
 * [Gabarito 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista1_gabarito.pdf) não oficial. Desenvolvido pelos alunos. 
 
-* [Lista 2](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista2.pdf) o primeiro aluno a enviar o gabarito da lista 2 ficará livre da Sabatina 2!
+* [Lista 2](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista2.pdf)
+
+* [Gabarito 2](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista2_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
 
 ## Programa da disciplina
 
