@@ -27,6 +27,8 @@ comments: false
 
 * [Sabatina 2](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina2.pdf)
 
+* [Sabatina 3](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina3.pdf)
+
 ## Exercícios
 
 * [Lista 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista1.pdf)
