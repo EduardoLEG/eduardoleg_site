@@ -45,6 +45,9 @@ comments: false
 
 * [Lista 4](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista4.pdf) o primeiro aluno a enviar o gabarito da lista 4 ficará livre da Sabatina 4!
 
+* [Lista 5](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista5.pdf) 
+
+* [Gabarito 5](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista5_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
 ## Programa da disciplina
 
    - Modelos Estatísticos:
