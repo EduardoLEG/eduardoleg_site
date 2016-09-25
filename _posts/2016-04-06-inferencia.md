@@ -61,6 +61,8 @@ comments: false
 
 * [Gabarito 6](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista6_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
 
+* [Lista 7](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista7.pdf) o primeiro aluno a enviar o gabarito da lista 7 ficará livre da Sabatina 7!
+
 ## Programa da disciplina
 
    - Modelos Estatísticos:
