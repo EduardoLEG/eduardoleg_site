@@ -33,6 +33,8 @@ comments: false
 
 * [Sabatina 5](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina5.pdf)
 
+* [Sabatina 6](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina6.pdf)
+
 * [Univariate Distribution Relationships](http://www.leg.ufpr.br/~eferreira/CE085-2016/Univariate Distribution Relationships.pdf)
 
 ## Exercícios
