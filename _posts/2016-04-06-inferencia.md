@@ -9,8 +9,6 @@ tag:
 comments: false
 ---
 
-**ATENÇÃO!** Prezados alunos, na sexta-feira (14/10) não haverá aula devido ao jantar em comemoração ao dia do professor \o/
-
 ## Detalhes da oferta da disciplina
 
   * **Professor:** Eduardo Vargas Ferreira
