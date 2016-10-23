@@ -79,6 +79,8 @@ comments: false
 
 * [Gabarito 9](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista9_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
 
+* [Lista 10](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista10.pdf) 
+
 ## Programa da disciplina
 
    - Modelos Estatísticos:
