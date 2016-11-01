@@ -41,6 +41,8 @@ comments: false
 
 * [Sabatina 9](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina9.pdf)
 
+* [Sabatina 10](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina10.pdf)
+
 * [Univariate Distribution Relationships](http://www.leg.ufpr.br/~eferreira/CE085-2016/Univariate Distribution Relationships.pdf)
 
 ## Exercícios
@@ -84,6 +86,8 @@ comments: false
 * [Lista 10](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista10.pdf) 
 
 * [Gabarito 10](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista10_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
+
+* [Lista 11](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista11.pdf) 
 
 ## Programa da disciplina
 
