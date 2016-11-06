@@ -45,6 +45,7 @@ comments: false
 
 * [Univariate Distribution Relationships](http://www.leg.ufpr.br/~eferreira/CE085-2016/Univariate Distribution Relationships.pdf)
 
+* [Comandos da aula no R](http://www.leg.ufpr.br/~eferreira/CE085-2016/Comandos_R.R)
 ## Exercícios
 
 * [Lista 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista1.pdf)
