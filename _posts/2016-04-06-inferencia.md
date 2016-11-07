@@ -9,7 +9,7 @@ tag:
 comments: false
 ---
 
-**ATENÇÃO!** Prezados alunos, hoje haverá aula normal \o/
+**ATENÇÃO! Hoje haverá aula normal \o/ **
 
 ## Detalhes da oferta da disciplina
 
