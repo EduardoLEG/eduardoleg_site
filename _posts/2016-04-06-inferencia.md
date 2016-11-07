@@ -9,6 +9,8 @@ tag:
 comments: false
 ---
 
+**ATENÇÃO!** Prezados alunos, hoje haverá aula normal \o/
+
 ## Detalhes da oferta da disciplina
 
   * **Professor:** Eduardo Vargas Ferreira
