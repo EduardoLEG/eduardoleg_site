@@ -9,7 +9,7 @@ tag:
 comments: false
 ---
 
-**ATENÇÃO! Hoje haverá aula normal \o/**
+**ATENÇÃO! Enquanto houver greve, realizaremos as aulas no LABEST.**
 
 ## Detalhes da oferta da disciplina
 
@@ -44,6 +44,8 @@ comments: false
 * [Sabatina 9](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina9.pdf)
 
 * [Sabatina 10](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina10.pdf)
+
+* [Sabatina 11](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina11.pdf)
 
 * [Univariate Distribution Relationships](http://www.leg.ufpr.br/~eferreira/CE085-2016/Univariate Distribution Relationships.pdf)
 
