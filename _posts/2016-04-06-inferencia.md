@@ -9,7 +9,7 @@ tag:
 comments: false
 ---
 
-**ATENÇÃO! Enquanto houver greve, realizaremos as aulas no LABEST.**
+**Excepcionalmente hoje (11/11) não haverá horário de atendimento na minha sala.**
 
 ## Detalhes da oferta da disciplina
 
