@@ -99,6 +99,8 @@ comments: false
 
 * [Lista 12](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista12.pdf) 
 
+* [Gabarito 12](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista12_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
+
 ## Programa da disciplina
 
    - Modelos Estatísticos:
