@@ -25,6 +25,8 @@ comments: false
 
 ## Avaliações 
 
+* [Resultado final](http://www.leg.ufpr.br/~eferreira/CE085-2016/Media_Final.pdf)
+
 * [Sabatina 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina1.pdf)
 
 * [Sabatina 2](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina2.pdf)
@@ -49,7 +51,6 @@ comments: false
 
 * [Sabatina 12](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina12.pdf)
 
-* [Resultado final](http://www.leg.ufpr.br/~eferreira/CE085-2016/Media_Final.pdf)
 
 * [Univariate Distribution Relationships](http://www.leg.ufpr.br/~eferreira/CE085-2016/Univariate Distribution Relationships.pdf)
 
