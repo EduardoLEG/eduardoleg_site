@@ -9,7 +9,7 @@ tag:
 comments: false
 ---
 
-**Excepcionalmente hoje (11/11) não haverá horário de atendimento na minha sala.**
+**O Exame será dia 14/12 às 19h na sala PA-01.**
 
 ## Detalhes da oferta da disciplina
 
@@ -46,6 +46,10 @@ comments: false
 * [Sabatina 10](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina10.pdf)
 
 * [Sabatina 11](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina11.pdf)
+
+* [Sabatina 12](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina12.pdf)
+
+* [Resultado final](http://www.leg.ufpr.br/~eferreira/CE085-2016/Media_Final.pdf)
 
 * [Univariate Distribution Relationships](http://www.leg.ufpr.br/~eferreira/CE085-2016/Univariate Distribution Relationships.pdf)
 
