@@ -58,6 +58,8 @@ comments: false
 
 ## Exercícios
 
+* [Exame 2015](http://www.leg.ufpr.br/~eferreira/CE085-2016/exame_inf.pdf)
+
 * [Lista 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista1.pdf)
 
 * [Gabarito 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista1_gabarito.pdf) não oficial. Desenvolvido pelos alunos. 
