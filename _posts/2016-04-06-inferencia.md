@@ -62,51 +62,28 @@ comments: false
 
 * [Lista 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista1.pdf)
 
-* [Gabarito 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista1_gabarito.pdf) não oficial. Desenvolvido pelos alunos. 
-
 * [Lista 2](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista2.pdf) 
-
-* [Gabarito 2](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista2_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
 
 * [Lista 3](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista3.pdf) 
 
-* [Gabarito 3](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista3_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
-
 * [Lista 4](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista4.pdf) 
-
-* [Gabarito 4](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista4_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
 
 * [Lista 5](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista5.pdf) 
 
-* [Gabarito 5](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista5_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
-
 * [Lista 6](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista6.pdf) 
-
-* [Gabarito 6](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista6_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
 
 * [Lista 7](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista7.pdf) 
 
-* [Gabarito 7](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista7_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
-
 * [Lista 8](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista8.pdf) 
-
-* [Gabarito 8](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista8_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
 
 * [Lista 9](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista9.pdf) 
 
-* [Gabarito 9](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista9_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
-
 * [Lista 10](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista10.pdf) 
-
-* [Gabarito 10](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista10_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
 
 * [Lista 11](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista11.pdf) 
 
-* [Gabarito 11](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista11_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
-
 * [Lista 12](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista12.pdf) 
 
-* [Gabarito 12](http://www.leg.ufpr.br/~eferreira/CE085-2016/lista12_gabarito.pdf) não oficial. Desenvolvido pelos alunos.
 
 ## Programa da disciplina
 
