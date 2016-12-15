@@ -9,8 +9,6 @@ tag:
 comments: false
 ---
 
-**O Exame será dia 14/12 às 19h na sala PA-01.**
-
 ## Detalhes da oferta da disciplina
 
   * **Professor:** Eduardo Vargas Ferreira
@@ -24,6 +22,8 @@ comments: false
 
 
 ## Avaliações 
+
+* [Exame](http://www.leg.ufpr.br/~eferreira/CE085-2016/Exame.pdf)
 
 * [Resultado final](http://www.leg.ufpr.br/~eferreira/CE085-2016/Media_Final.pdf)
 
