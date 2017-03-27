@@ -21,41 +21,6 @@ comments: false
   * **Atendimento:** Sexta, 17h30-18h30.
 
 
-## Avaliações 
-
-* [Exame](http://www.leg.ufpr.br/~eferreira/CE085-2016/Exame.pdf)
-
-* [Resultado final](http://www.leg.ufpr.br/~eferreira/CE085-2016/Media_Final.pdf)
-
-* [Sabatina 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina1.pdf)
-
-* [Sabatina 2](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina2.pdf)
-
-* [Sabatina 3](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina3.pdf)
-
-* [Sabatina 4](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina4.pdf)
-
-* [Sabatina 5](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina5.pdf)
-
-* [Sabatina 6](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina6.pdf)
-
-* [Sabatina 7](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina7.pdf)
-
-* [Sabatina 8](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina8.pdf)
-
-* [Sabatina 9](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina9.pdf)
-
-* [Sabatina 10](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina10.pdf)
-
-* [Sabatina 11](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina11.pdf)
-
-* [Sabatina 12](http://www.leg.ufpr.br/~eferreira/CE085-2016/Sabatina12.pdf)
-
-
-* [Univariate Distribution Relationships](http://www.leg.ufpr.br/~eferreira/CE085-2016/Univariate Distribution Relationships.pdf)
-
-* [Comandos da aula no R](http://www.leg.ufpr.br/~eferreira/CE085-2016/Comandos_R.R)
-
 ## Exercícios
 
 * [Lista 1](http://www.leg.ufpr.br/~eferreira/CE085-2016/Lista1.pdf)
