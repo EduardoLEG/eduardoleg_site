@@ -23,7 +23,7 @@ comments: false
 
     > **Título:** Modelos de Redes Neurais Artificiais para previsão do IBOVESPA
 
-* ### Karen R. G. de Oliveira e Luis Henrique de Oliveira
+* ### Karen R. G. de Oliveira e Luis Henrique de Oliveira (2017)
 
     > **Título:** A sorte, atribuída ao futebol, driblada com Estatística
     
