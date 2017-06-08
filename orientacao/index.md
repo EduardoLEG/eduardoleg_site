@@ -13,9 +13,19 @@ comments: false
 
     > **Título:** Métodos de otimização com aplicações na Estatística.
 
-* ### Bruno Geronymo (2016 - Atual)
+* ### Guilherme Hathy (2016 - Atual)
 
-    > **Título:** Cálculo avançado aplicado à Estatística.
+    > **Título:** Aplicação de Machine Learning no Mercado Financeiro.
+    
+## Trabalho de conclusão de curso:
+
+* ### Conrado Mattei de Cabane Oliveira (2017)
+
+    > **Título:** Modelos de Redes Neurais Artificiais para previsão do IBOVESPA
+
+* ### Karen R. G. de Oliveira e Luis Henrique de Oliveira
+
+    > **Título:** A sorte, atribuída ao futebol, driblada com Estatística
     
 ## Monitoria:
 
