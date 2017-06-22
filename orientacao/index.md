@@ -15,7 +15,7 @@ comments: false
 
 * ### Guilherme Hathy (2016 - Atual)
 
-    > **Título:** Aplicação de Machine Learning no Mercado Financeiro.
+    > **Título:** Algoritmos de Machine Learning aplicados ao mercado financeiro.
     
 ## Trabalho de conclusão de curso:
 
