@@ -25,7 +25,8 @@ comments: false
 
 * ### Karen R. G. de Oliveira e Luis Henrique de Oliveira (2017)
 
-    > **Título:** A sorte atribuída ao futebol pode ser driblada com Estatística
+    > **Título:** Driblando a sorte e marcando um gol: uma abordagem estatística no futebol
+
     
 ## Monitoria:
 
