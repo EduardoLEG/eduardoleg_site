@@ -5,6 +5,9 @@ feature: http://i.imgur.com/Ds6S7lJ.png
 excerpt: "Pesquisa"
 comments: false
 ---
+## Algoritmos de Machine Learning aplicados ao mercado financeiro
+
+* **Descrição:** o objetivo do projeto é construir algoritmos capazes de aprender com as constantes mudanças do mercado financeiro e robustos à volatilidade do mesmo. Automatizaremos as operações, excluindo o viés psicológico (fator humano), que por vezes sobressai na lógica do mercado. Minimizando, assim, a tendência do investidor em realizar prematuramente os trades lucrativos e manter por muito tempo os pouco rentáveis.
 
 ## Inferência Bayesiana em modelos politômicos da Teoria da Resposta ao Item com fatores associados
 
