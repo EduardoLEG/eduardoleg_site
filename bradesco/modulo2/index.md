@@ -11,20 +11,20 @@ comments: false
 
 * **Conteúdo programático**
 
-   - Introdução [Teoria]() [Prática]() [Estudos de caso]()
+   - Introdução: [[Teoria]()] [[Prática]()] [[Estudos de caso]()]
               
-   - Métodos de reamostragem [Teoria]() [Prática]() [Estudos de caso]()
+   - Métodos de reamostragem: [[Teoria]()] [[Prática]()] [[Estudos de caso]()]
               
-   - Gradiente descendente [Teoria]() [Prática]() [Estudos de caso]()
+   - Gradiente descendente: [[Teoria]()] [[Prática]()] [[Estudos de caso]()]
               
-   - Regularização [Teoria]() [Prática]() [Estudos de caso]()
+   - Regularização: [[Teoria]()] [[Prática]()] [[Estudos de caso]()]
           
-   - Métodos baseados em árvores [Teoria]() [Prática]() [Estudos de caso]()
+   - Métodos baseados em árvores: [[Teoria]()] [[Prática]()] [[Estudos de caso]()]
             
-   - Support Vector Machines [Teoria]() [Prática]() [Estudos de caso]()
+   - Support Vector Machines: [[Teoria]()] [[Prática]()] [[Estudos de caso]()]
           
-   - Classificação [Teoria]() [Prática]() [Estudos de caso]()
+   - Classificação: [[Teoria]()] [[Prática]()] [[Estudos de caso]()]
           
-   - Aprendizado não supervisionado [Teoria]() [Prática]() [Estudos de caso]()
+   - Aprendizado não supervisionado: [[Teoria]()] [[Prática]()] [[Estudos de caso]()]
               
    
