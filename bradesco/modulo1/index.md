@@ -11,45 +11,45 @@ comments: false
 
 * **Conteúdo programático**
 
-   - Introdução [Slide]() 
+   - Introdução [[Slide]()] 
        * Machine Learning na prática;
        * Aprendizado supervisionado e não supervisionado;
        * Função custo;
        
-   - Métodos de reamostragem [Slide]() 
+   - Métodos de reamostragem [[Slide]()] 
        * Estimando o erro de previsão;
        * Validação cruzada;
        * Bootstrap.
        
-   - Gradiente descendente [Slide]()
+   - Gradiente descendente [[Slide]()] 
        * Batch; 
        * Stochastic; 
        * Boosting.
        
-   - Regularização [Slide]()
+   - Regularização [[Slide]()] 
        * Regressão Ridge;
        * Regressão Lasso;
        * Horseshoe;
        * Elastic net.
    
-   - Métodos baseados em árvores [Slide]() 
+   - Métodos baseados em árvores [[Slide]()] 
        * Árvores de decisão;
        * Randon Forest;
        * Bootstrap Aggregation (Bagging);
        * Boosting.
      
-   - Support Vector Machines [Slide]()
+   - Support Vector Machines [[Slide]()] 
        * Maximal Margin Classifier;
        * Support vector Classifier;
        * Kernels.
    
-   - Classificação [Slide]()
+   - Classificação [[Slide]()] 
        * Regressão logística;
        * Análise de discriminante linear; 
        * Análise de discriminante quadrática;
        * Naive Bayes.
    
-   - Aprendizado não supervisionado [Slide]() 
+   - Aprendizado não supervisionado [[Slide]()] 
        * Análise de componentes principais;
        * K-means Clustering;
        * Hierarchical Clustering. 
