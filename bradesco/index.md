@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Treinamento
+title: Treinamento de Machine Learning
 feature: https://raw.githubusercontent.com/EduardoLEG/eduardoleg.github.io/master/assets/img/INF.jpg
 excerpt: "Disciplinas"
 comments: false
