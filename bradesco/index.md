@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Treinamento
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: https://raw.githubusercontent.com/EduardoLEG/eduardoleg.github.io/master/assets/img/INF.jpg
 excerpt: "Disciplinas"
 comments: false
 ---
