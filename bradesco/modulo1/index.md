@@ -5,9 +5,7 @@ comments: false
 ---
 * **Instrutor:** Eduardo Vargas Ferreira
 
-* **Objetivo**
-
-O objetivo deste treinamento é ser um guia para o processo de solução de problemas através de metodologias recentes de *Statistical Learning*. Na maior parte do curso, evitaremos equações complexas (embora haja algumas exceções necessárias). Mas, essencialmente, discutiremos as técnicas, de forma a desenvolver a intuição dos utilizadores para os pontos fortes e fracos de cada método.
+* **Objetivo:** o objetivo deste treinamento é ser um guia para o processo de solução de problemas através de metodologias recentes de *Statistical Learning*. Na maior parte do curso, evitaremos equações complexas (embora haja algumas exceções necessárias). Mas, essencialmente, discutiremos as técnicas, de forma a desenvolver a intuição dos utilizadores para os pontos fortes e fracos de cada método.
 
 * **Carga horária:** 16 horas/aula
 
