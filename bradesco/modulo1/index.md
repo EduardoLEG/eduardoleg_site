@@ -1,11 +1,6 @@
 ---
-layout: post
-title:  "Módulo 1"
-date:   2016-04-06
-excerpt: "" 
-project: true
-tag:
-
+layout: page
+title:  Módulo 1
 comments: false
 ---
 
