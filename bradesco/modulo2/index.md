@@ -3,7 +3,9 @@ layout: page
 title:  Módulo 2
 comments: false
 ---
-* **Instrutor:** Eduardo Vargas Ferreira
+* **Instrutores:** 
+    * Eduardo Vargas Ferreira
+    * Eduardo Elias Ribeiro Jr.
 
 * **Objetivo:** o objetivo central é capacitar os colaboradores para a utilização das técnicas recentes de *Statistical Learning* com o software R. Espera-se que ao final do treinamento, todos sejam capazes de compreender e implementar todos os métodos, e analisar seu próprio banco de dados.
 
