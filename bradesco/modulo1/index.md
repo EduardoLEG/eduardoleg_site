@@ -4,8 +4,6 @@ title:  Módulo 1
 comments: false
 ---
 
-<center> <h1>Treinamento de Machine Learning</h1> </center>
-
 ## Programa
 
    - Introdução [Slide]() 
