@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Módulo 1
-feature: https://raw.githubusercontent.com/EduardoLEG/eduardoleg.github.io/master/assets/img/INF.jpg
-description: "Módulo 1"
+title:  "Módulo 1"
+date:   2016-04-06
+excerpt: "" 
+project: true
+tag:
+
 comments: false
 ---
+
 <center> <h1>Treinamento de Machine Learning</h1> </center>
 
 ## Programa
